@@ -5,11 +5,21 @@ https://github.com/tmux/tmux
 # 一些tmux的教學說明
 這個設定檔是我從網路上拷來的在下方加入一些常用熱鍵的說明及基本的操作。
 
-預設的<kbd>Ctrl</kbd>+<kbd>b</kbd>變更為<kbd>Ctrl</kbd>+<kbd>a</kbd>
+設定檔變更預設的<kbd>Ctrl</kbd>+<kbd>b</kbd>熱鍵。
+<pre><code>預設的<kbd>Ctrl</kbd>+<kbd>b</kbd>變更為<kbd>Ctrl</kbd>+<kbd>a</kbd></code></pre>
 
-用<kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd>在panel間移動，例如: <kbd>Ctrl</kbd>+<kbd>a</kbd>再壓<kbd>h</kbd>
+垂直分割panel:
 
-用大寫的HJKL調整panel的大小.
+<pre><code><kbd>Ctrl</kbd>+<kbd>a</kbd>再壓<kbd>v</kbd></code></pre>
+
+水平分割panel:
+
+<pre><code><kbd>Ctrl</kbd>+<kbd>a</kbd>再壓<kbd>s</kbd></code></pre>
+
+
+用<kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd>在面板(panel)間移動，例如: <kbd>Ctrl</kbd>+<kbd>a</kbd>再壓<kbd>h</kbd>
+
+用大寫的HJKL調整面板(panel)的大小.
 
 <kbd>Ctrl</kbd>+<kbd>a</kbd>再壓<kbd>w</kbd>，開新視窗。
 

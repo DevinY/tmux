@@ -1,6 +1,9 @@
 Mac OS X編譯安裝tmux，可參考:
 https://github.com/tmux/tmux
 
+Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions.:
+https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard
+
 
 # 一些tmux的教學說明
 這個設定檔是我從網路上拷來的在下方加入一些常用熱鍵的說明及基本的操作。
